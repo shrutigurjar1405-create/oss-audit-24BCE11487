@@ -1,7 +1,7 @@
 # Open Source Audit - VLC Media Player
 
-Name: Diya tanwani
-Roll Number: 24BCE10500
+Name: Shruti gurjar
+Roll Number: 24BCE11487
 
 ## Scripts
 
